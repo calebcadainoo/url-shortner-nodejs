@@ -24,3 +24,8 @@ to
 ```sh
 "devStart": "nodemon server.js"
 ```
+
+### 5. Run the Server
+```sh
+npm run devStart
+```
